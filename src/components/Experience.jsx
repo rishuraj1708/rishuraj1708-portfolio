@@ -8,7 +8,7 @@ import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
 import node from "../assets/node.png";
 import redux from "../assets/redux.png"
-import vite from "../assets/vite.png"
+import vite from "../assets/Vite.png"
 const Experience = () => {
   const techs = [
     {
