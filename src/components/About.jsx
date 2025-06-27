@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div
       name="about"
-      className="w-full h-100 bg-gradient-to-b from-gray-800 to-black text-white about"
+      className="w-full bg-gradient-to-b from-gray-800 to-black text-white py-20"
     >
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
         <div className="pb-8">
@@ -21,7 +21,7 @@ const About = () => {
 
         <p className="text-xl">
         I like to code matters from scratch and love the idea of bringing thoughts to life. Connect with me to get your project done. <br /> <br />
-        I value minimalistic designs, thoughtful branding of the content, and customer relatable experience. Let’s discover together how we can make your project convert better!<br /> <br />
+        I value minimalistic designs, thoughtful branding of the content, and customer relatable experience. Let's discover together how we can make your project convert better!<br /> <br />
         I enjoy creating or redesigning a distinct identity for a product or service, get more traffic from search engine and social platforms.
         </p>
       </div>
